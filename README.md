@@ -94,5 +94,4 @@ Open a Pull Request.
 🌟 Author
 Developed by ankitadhara28.
 
-🌐 Live Demo (Optional)
-If you deploy the project (e.g., via Heroku, Vercel, etc.), you can link the live demo here!
+🌐 Live Demo: Coming soon!
